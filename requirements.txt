@@ -1,0 +1,12 @@
+streamlit
+yfinance
+ta
+xgboost
+scikit-learn
+seaborn
+matplotlib
+pandas
+numpy
+altair
+Pillow
+protobuf
